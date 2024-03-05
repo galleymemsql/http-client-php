@@ -1,6 +1,8 @@
 # SingleStore HTTP Client for PHP
 # (singlestore/http-client)
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 This API allows you to execute SQL statements against a SingleStore database.  It supports all statements that can be run in a direct database connection, and uses conventional data type conversion.
 
 For more information, please visit [https://docs.singlestore.com/managed-service/en/reference/http-api.html](https://docs.singlestore.com/managed-service/en/reference/http-api.html).
